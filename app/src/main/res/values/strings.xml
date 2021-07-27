@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fajr_prayer">الفجر</string>
+    <string name="sunrize_prayer">الشروق</string>
+    <string name="jummah_prayer">الجمعة</string>
+    <string name="zuhr_prayer">الظهر</string>
+    <string name="asr_prayer">العصر</string>
+    <string name="maghreb_prayer">المغرب</string>
+    <string name="ishaa_prayer">العشاء</string>
+</resources>
